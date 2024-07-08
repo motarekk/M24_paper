@@ -1,6 +1,6 @@
 """
 Ascon encryption oracle
-Code from pyascon: https://github.com/motarekk/playascon
+Code from pyascon: https://github.com/meichlseder/pyascon
 """
 def ascon_encrypt(associateddata, plaintext, variant="Ascon-128"): 
     # parameters
